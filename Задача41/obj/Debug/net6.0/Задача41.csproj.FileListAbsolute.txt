@@ -1,0 +1,15 @@
+D:\Ксюша\HomeWork\Задача41\obj\Debug\net6.0\Задача41.csproj.AssemblyReference.cache
+D:\Ксюша\HomeWork\Задача41\obj\Debug\net6.0\Задача41.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ксюша\HomeWork\Задача41\obj\Debug\net6.0\Задача41.AssemblyInfoInputs.cache
+D:\Ксюша\HomeWork\Задача41\obj\Debug\net6.0\Задача41.AssemblyInfo.cs
+D:\Ксюша\HomeWork\Задача41\obj\Debug\net6.0\Задача41.csproj.CoreCompileInputs.cache
+D:\Ксюша\HomeWork\Задача41\bin\Debug\net6.0\Задача41.exe
+D:\Ксюша\HomeWork\Задача41\bin\Debug\net6.0\Задача41.deps.json
+D:\Ксюша\HomeWork\Задача41\bin\Debug\net6.0\Задача41.runtimeconfig.json
+D:\Ксюша\HomeWork\Задача41\bin\Debug\net6.0\Задача41.dll
+D:\Ксюша\HomeWork\Задача41\bin\Debug\net6.0\Задача41.pdb
+D:\Ксюша\HomeWork\Задача41\obj\Debug\net6.0\Задача41.dll
+D:\Ксюша\HomeWork\Задача41\obj\Debug\net6.0\refint\Задача41.dll
+D:\Ксюша\HomeWork\Задача41\obj\Debug\net6.0\Задача41.pdb
+D:\Ксюша\HomeWork\Задача41\obj\Debug\net6.0\Задача41.genruntimeconfig.cache
+D:\Ксюша\HomeWork\Задача41\obj\Debug\net6.0\ref\Задача41.dll
