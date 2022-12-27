@@ -1,0 +1,15 @@
+D:\Ксюша\HomeWork\Задача56\bin\Debug\net6.0\Задача56.exe
+D:\Ксюша\HomeWork\Задача56\bin\Debug\net6.0\Задача56.deps.json
+D:\Ксюша\HomeWork\Задача56\bin\Debug\net6.0\Задача56.runtimeconfig.json
+D:\Ксюша\HomeWork\Задача56\bin\Debug\net6.0\Задача56.dll
+D:\Ксюша\HomeWork\Задача56\bin\Debug\net6.0\Задача56.pdb
+D:\Ксюша\HomeWork\Задача56\obj\Debug\net6.0\Задача56.csproj.AssemblyReference.cache
+D:\Ксюша\HomeWork\Задача56\obj\Debug\net6.0\Задача56.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ксюша\HomeWork\Задача56\obj\Debug\net6.0\Задача56.AssemblyInfoInputs.cache
+D:\Ксюша\HomeWork\Задача56\obj\Debug\net6.0\Задача56.AssemblyInfo.cs
+D:\Ксюша\HomeWork\Задача56\obj\Debug\net6.0\Задача56.csproj.CoreCompileInputs.cache
+D:\Ксюша\HomeWork\Задача56\obj\Debug\net6.0\Задача56.dll
+D:\Ксюша\HomeWork\Задача56\obj\Debug\net6.0\refint\Задача56.dll
+D:\Ксюша\HomeWork\Задача56\obj\Debug\net6.0\Задача56.pdb
+D:\Ксюша\HomeWork\Задача56\obj\Debug\net6.0\Задача56.genruntimeconfig.cache
+D:\Ксюша\HomeWork\Задача56\obj\Debug\net6.0\ref\Задача56.dll
